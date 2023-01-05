@@ -1,0 +1,2 @@
+<?php
+//Variáveis variáveis
