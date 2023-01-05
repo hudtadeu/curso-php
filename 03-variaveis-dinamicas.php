@@ -7,7 +7,7 @@ $$bebida = "Guaraná";
 echo $refrigerante;
 echo "<br>";
 
-/////////////////////////
+///////////////////////////
 
 $destino = "cidade";
 $$destino = "Rio Piracicaba";
