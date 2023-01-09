@@ -109,3 +109,4 @@ echo "<hr>";
 $nomes = array("Rodrigo", "Carlos", "Neusa", "Talita");
 $string = implode(", ", $nomes);
 echo $string;
+echo "<hr>";
