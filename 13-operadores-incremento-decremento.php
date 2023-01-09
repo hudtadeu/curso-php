@@ -6,9 +6,17 @@ qualquer valor do tipo numérico ou string */
 
 $valor = 20;
 // Pré-incremento
-echo ++$valor;
+//echo ++$valor;
 
 // Pós-incremento
-echo $valor++;
+//echo $valor++;
+//echo "<br>";
+//echo  $valor;
+
+// Pré-decemento
+//echo --$valor;
+
+// Pós-decremento
+echo $valor--;
 echo "<br>";
-echo  $valor;
+echo $valor;
