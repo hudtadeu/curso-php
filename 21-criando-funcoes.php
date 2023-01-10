@@ -21,4 +21,4 @@ function calcularMedia($nome, $n1, $n2, $n3, $n4)
 }
 
 calcularMedia("Bob", 5, 7, 9, 10);
-calcularMedia("Joao", 7, 2, 6, 3);
+calcularMedia("Joao", 7, 2, 6, 4);
